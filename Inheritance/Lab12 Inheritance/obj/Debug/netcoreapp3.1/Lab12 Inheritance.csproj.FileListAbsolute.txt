@@ -1,0 +1,13 @@
+C:\Users\rizor\source\repos\MSSA Labs\Lab12 Inheritance\Lab12 Inheritance\obj\Debug\netcoreapp3.1\Lab12 Inheritance.csprojAssemblyReference.cache
+C:\Users\rizor\source\repos\MSSA Labs\Lab12 Inheritance\Lab12 Inheritance\obj\Debug\netcoreapp3.1\Lab12 Inheritance.AssemblyInfoInputs.cache
+C:\Users\rizor\source\repos\MSSA Labs\Lab12 Inheritance\Lab12 Inheritance\obj\Debug\netcoreapp3.1\Lab12 Inheritance.AssemblyInfo.cs
+C:\Users\rizor\source\repos\MSSA Labs\Lab12 Inheritance\Lab12 Inheritance\obj\Debug\netcoreapp3.1\Lab12 Inheritance.csproj.CoreCompileInputs.cache
+C:\Users\rizor\source\repos\MSSA Labs\Lab12 Inheritance\Lab12 Inheritance\bin\Debug\netcoreapp3.1\Lab12 Inheritance.exe
+C:\Users\rizor\source\repos\MSSA Labs\Lab12 Inheritance\Lab12 Inheritance\bin\Debug\netcoreapp3.1\Lab12 Inheritance.deps.json
+C:\Users\rizor\source\repos\MSSA Labs\Lab12 Inheritance\Lab12 Inheritance\bin\Debug\netcoreapp3.1\Lab12 Inheritance.runtimeconfig.json
+C:\Users\rizor\source\repos\MSSA Labs\Lab12 Inheritance\Lab12 Inheritance\bin\Debug\netcoreapp3.1\Lab12 Inheritance.runtimeconfig.dev.json
+C:\Users\rizor\source\repos\MSSA Labs\Lab12 Inheritance\Lab12 Inheritance\bin\Debug\netcoreapp3.1\Lab12 Inheritance.dll
+C:\Users\rizor\source\repos\MSSA Labs\Lab12 Inheritance\Lab12 Inheritance\bin\Debug\netcoreapp3.1\Lab12 Inheritance.pdb
+C:\Users\rizor\source\repos\MSSA Labs\Lab12 Inheritance\Lab12 Inheritance\obj\Debug\netcoreapp3.1\Lab12 Inheritance.dll
+C:\Users\rizor\source\repos\MSSA Labs\Lab12 Inheritance\Lab12 Inheritance\obj\Debug\netcoreapp3.1\Lab12 Inheritance.pdb
+C:\Users\rizor\source\repos\MSSA Labs\Lab12 Inheritance\Lab12 Inheritance\obj\Debug\netcoreapp3.1\Lab12 Inheritance.genruntimeconfig.cache
