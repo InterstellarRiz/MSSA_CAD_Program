@@ -1,0 +1,13 @@
+C:\Users\rizor\source\repos\MSSA Labs\Lab17Stacks\Lab17Stacks\bin\Debug\netcoreapp3.1\Lab17Stacks.exe
+C:\Users\rizor\source\repos\MSSA Labs\Lab17Stacks\Lab17Stacks\bin\Debug\netcoreapp3.1\Lab17Stacks.deps.json
+C:\Users\rizor\source\repos\MSSA Labs\Lab17Stacks\Lab17Stacks\bin\Debug\netcoreapp3.1\Lab17Stacks.runtimeconfig.json
+C:\Users\rizor\source\repos\MSSA Labs\Lab17Stacks\Lab17Stacks\bin\Debug\netcoreapp3.1\Lab17Stacks.runtimeconfig.dev.json
+C:\Users\rizor\source\repos\MSSA Labs\Lab17Stacks\Lab17Stacks\bin\Debug\netcoreapp3.1\Lab17Stacks.dll
+C:\Users\rizor\source\repos\MSSA Labs\Lab17Stacks\Lab17Stacks\bin\Debug\netcoreapp3.1\Lab17Stacks.pdb
+C:\Users\rizor\source\repos\MSSA Labs\Lab17Stacks\Lab17Stacks\obj\Debug\netcoreapp3.1\Lab17Stacks.csprojAssemblyReference.cache
+C:\Users\rizor\source\repos\MSSA Labs\Lab17Stacks\Lab17Stacks\obj\Debug\netcoreapp3.1\Lab17Stacks.AssemblyInfoInputs.cache
+C:\Users\rizor\source\repos\MSSA Labs\Lab17Stacks\Lab17Stacks\obj\Debug\netcoreapp3.1\Lab17Stacks.AssemblyInfo.cs
+C:\Users\rizor\source\repos\MSSA Labs\Lab17Stacks\Lab17Stacks\obj\Debug\netcoreapp3.1\Lab17Stacks.csproj.CoreCompileInputs.cache
+C:\Users\rizor\source\repos\MSSA Labs\Lab17Stacks\Lab17Stacks\obj\Debug\netcoreapp3.1\Lab17Stacks.dll
+C:\Users\rizor\source\repos\MSSA Labs\Lab17Stacks\Lab17Stacks\obj\Debug\netcoreapp3.1\Lab17Stacks.pdb
+C:\Users\rizor\source\repos\MSSA Labs\Lab17Stacks\Lab17Stacks\obj\Debug\netcoreapp3.1\Lab17Stacks.genruntimeconfig.cache
