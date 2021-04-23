@@ -1,0 +1,14 @@
+C:\Users\rizor\source\repos\MSSA Labs\Titanic\Titanic\bin\Debug\netcoreapp3.1\Titanic.exe
+C:\Users\rizor\source\repos\MSSA Labs\Titanic\Titanic\bin\Debug\netcoreapp3.1\Titanic.Tsv
+C:\Users\rizor\source\repos\MSSA Labs\Titanic\Titanic\bin\Debug\netcoreapp3.1\Titanic.deps.json
+C:\Users\rizor\source\repos\MSSA Labs\Titanic\Titanic\bin\Debug\netcoreapp3.1\Titanic.runtimeconfig.json
+C:\Users\rizor\source\repos\MSSA Labs\Titanic\Titanic\bin\Debug\netcoreapp3.1\Titanic.runtimeconfig.dev.json
+C:\Users\rizor\source\repos\MSSA Labs\Titanic\Titanic\bin\Debug\netcoreapp3.1\Titanic.dll
+C:\Users\rizor\source\repos\MSSA Labs\Titanic\Titanic\bin\Debug\netcoreapp3.1\Titanic.pdb
+C:\Users\rizor\source\repos\MSSA Labs\Titanic\Titanic\obj\Debug\netcoreapp3.1\Titanic.csprojAssemblyReference.cache
+C:\Users\rizor\source\repos\MSSA Labs\Titanic\Titanic\obj\Debug\netcoreapp3.1\Titanic.AssemblyInfoInputs.cache
+C:\Users\rizor\source\repos\MSSA Labs\Titanic\Titanic\obj\Debug\netcoreapp3.1\Titanic.AssemblyInfo.cs
+C:\Users\rizor\source\repos\MSSA Labs\Titanic\Titanic\obj\Debug\netcoreapp3.1\Titanic.csproj.CoreCompileInputs.cache
+C:\Users\rizor\source\repos\MSSA Labs\Titanic\Titanic\obj\Debug\netcoreapp3.1\Titanic.dll
+C:\Users\rizor\source\repos\MSSA Labs\Titanic\Titanic\obj\Debug\netcoreapp3.1\Titanic.pdb
+C:\Users\rizor\source\repos\MSSA Labs\Titanic\Titanic\obj\Debug\netcoreapp3.1\Titanic.genruntimeconfig.cache
